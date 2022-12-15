@@ -29,6 +29,6 @@
 
 ### Social
 <a href="https://velog.io/@hoon0123">![Blog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hye_rin)</a>
-<a href='https://forested-tractor-5cc.notion.site/51932573b73a46b0bf790ae97b077935'><img src='https://forested-tractor-5cc.notion.site/51932573b73a46b0bf790ae97b077935'></a>
+<a href='https://forested-tractor-5cc.notion.site/51932573b73a46b0bf790ae97b077935'><img src='[https://forested-tractor-5cc.notion.site/51932573b73a46b0bf790ae97b077935](https://img.shields.io/badge/-Notion-lightgrey)'></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:si932174@gmail.com) 
 <br />
