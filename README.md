@@ -1,7 +1,7 @@
 ## 승훈리 (Seunghoon Lee)
 📚 I’m currently learning `TypeScript`, `Redux`<br />
 ⌁⌁ I majored in Electronic-Engineering<br />
-🔎 I am interested in clean code. <br />
+🔎 I am interested in clean code and high performance Web Application. <br />
 
 ### ✨ Skills
 <p>
