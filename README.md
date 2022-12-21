@@ -32,3 +32,18 @@
 <a href='https://forested-tractor-5cc.notion.site/51932573b73a46b0bf790ae97b077935'><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:si932174@gmail.com) 
 <br />
+
+
+<h3 align=center> My Stats </h3>
+
+<hr>
+
+<div align=center>
+  
+
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ihd0628&theme=vue)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ihd0628&theme=vue)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ihd0628&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ihd0628&theme=vue)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ihd0628&theme=vue&utcOffset=8)
+</div>
