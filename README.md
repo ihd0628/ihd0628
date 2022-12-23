@@ -15,11 +15,11 @@
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scss-cc6699.svg?&style=flat-square&logo=Sass&logoColor=white"/>
 </p>
-
+**
 ### ✨ Techs that I've used at least once
 <p>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-</p>
+</p>**
 
 ### ✨ Business Tools
 <p>
