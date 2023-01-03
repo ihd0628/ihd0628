@@ -44,3 +44,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ihd0628&theme=vue)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ihd0628&theme=vue&utcOffset=8)
 </div>
+
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hoon0123&slug=성능-최적화를-위한-노력들-2&color=dark)](https://velog.io/@hoon0123/%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%85%B8%EB%A0%A5%EB%93%A4-2)
