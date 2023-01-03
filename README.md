@@ -30,6 +30,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:si932174@gmail.com) 
 <br />
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hoon0123&slug=성능-최적화를-위한-노력들-2&color=dark)](https://velog.io/@hoon0123/%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%85%B8%EB%A0%A5%EB%93%A4-2)
+
 
 <h3 align=center> My Stats </h3>
 
@@ -46,4 +48,3 @@
 </div>
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hoon0123&slug=성능-최적화를-위한-노력들-2&color=dark)](https://velog.io/@hoon0123/%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%85%B8%EB%A0%A5%EB%93%A4-2)
