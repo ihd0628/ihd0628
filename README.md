@@ -1,5 +1,5 @@
 ## 승훈리 (Seunghoon Lee)
-📚 I’m currently learning `React-native`, `Typescript`<br />
+📚 I’m Junior Developer<br />
 🔎 I am interested in clean code and performance of Web Application. <br />
 ⌁⌁ I majored in Electronic-Engineering<br />
 
