@@ -1,6 +1,6 @@
 ## 승훈리 (Seunghoon Lee)
 📚 I’m Junior Developer<br />
-🔎 I am interested in clean code and performance of Web Application. <br />
+🔎 I am interested in my firm's react-native application. <br />
 ⌁⌁ I majored in Electronic-Engineering<br />
 
 ### ✨ Skills
