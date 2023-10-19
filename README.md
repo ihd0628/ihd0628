@@ -1,7 +1,22 @@
 ## 승훈리 (Seunghoon Lee)
 📚 I’m Junior Developer<br />
-🔎 I am interested in my firm's react-native application. <br />
+🔎 I am very interested in the growth of my product. <br />
 ⌁⌁ I majored in Electronic-Engineering<br />
+
+
+### 📫 Contact
+<img src="https://img.shields.io/badge/📞 010--7203--6543-brightgreen?style=flat-square&logo=" />
+<a href="[https://aspiring-property-bd1.notion.site/e802d747545349bda2257c9c06d5424f](https://velog.io/@hoon0123)" style="display: inline">
+    <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Storyblok&logoColor=white" />
+</a>
+<a href="mailto:932174@gmail.com" style="display: inline">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
+</a>
+
+
+<br>
+<br>
+
 
 ### ✨ Skills
 <p>
@@ -12,33 +27,5 @@
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-<img src="  https://img.shields.io/badge/-jest-orange"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scss-cc6699.svg?&style=flat-square&logo=Sass&logoColor=white"/>
 </p>
-
-
-### Social
-<a href="https://velog.io/@hoon0123">![Blog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hye_rin)</a>
-<a href='https://forested-tractor-5cc.notion.site/51932573b73a46b0bf790ae97b077935'><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:si932174@gmail.com) 
-<br />
-
-<h3 align=center> My Stats </h3>
-
-<hr>
-
-<div align=center>
-  
-
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ihd0628&theme=vue)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ihd0628&theme=vue)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ihd0628&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ihd0628&theme=vue)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ihd0628&theme=vue&utcOffset=8)
-</div>
-
 
