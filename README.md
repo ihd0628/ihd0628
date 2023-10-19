@@ -6,10 +6,10 @@
 
 ### 📫 Contact
 <img src="https://img.shields.io/badge/📞 010--7203--6543-brightgreen?style=flat-square&logo=" />
-<a href="[https://aspiring-property-bd1.notion.site/e802d747545349bda2257c9c06d5424f](https://velog.io/@hoon0123)" style="display: inline">
+<a href="https://velog.io/@hoon0123" style="display: inline">
     <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Storyblok&logoColor=white" />
 </a>
-<a href="mailto:932174@gmail.com" style="display: inline">
+<a href="mailto:si932174@gmail.com" style="display: inline">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
 
