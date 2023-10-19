@@ -1,15 +1,15 @@
 ## 승훈리 (Seunghoon Lee)
 📚 I’m Junior Developer<br />
-🔎 I am very interested in the growth of my product. <br />
+🔎 I am very interested in the growth of my <a href='https://ontol.com/' target="_blank">product</a>. <br />
 ⌁⌁ I majored in Electronic-Engineering<br />
 
 
 ### 📫 Contact
 <img src="https://img.shields.io/badge/📞 010--7203--6543-brightgreen?style=flat-square&logo=" />
-<a href="https://velog.io/@hoon0123" style="display: inline">
+<a href="https://velog.io/@hoon0123" style="display: inline" target="_blank">
     <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Storyblok&logoColor=white" />
 </a>
-<a href="mailto:si932174@gmail.com" style="display: inline">
+<a href="mailto:si932174@gmail.com" style="display: inline" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
 
