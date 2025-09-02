@@ -1,6 +1,6 @@
 ## 승훈리 (Seunghoon Lee)
 📚 I’m Junior Developer<br />
-🔎 I am very interested in the growth of my <a href='https://ontol.com/' target="_blank">product</a>. <br />
+🔎 I am very interested in the growth of my product. <br />
 ⌁⌁ I majored in Electronic-Engineering<br />
 
 
